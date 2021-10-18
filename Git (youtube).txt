@@ -1,0 +1,7 @@
+pwd - present working directory 
+git status - to check the status of the repository
+
+git init - Initialized git in that folder 
+git add --a -> adds the files in the staging area (the files which will be committed)
+git commit -m "your commit name" -> commits the changes
+git log -> gives you the log of changes made 
